@@ -18,7 +18,6 @@
 ---
 
 ## 📫 Contact
-- **Discord:**
 [![Discord Presence](https://lanyard.cnrad.dev/api/1038770111542210590?theme=dark)](https://discord.com/users/1038770111542210590)
 - **GitHub:** [Everyx333](https://github.com/Everyx333)
 
