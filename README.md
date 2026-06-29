@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Everyx
 
-<!--
-**Everyx333/Everyx333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**16 y.o. Developer | Russia**  
+**Luau** (Roblox) • Actively learning **Rust**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech
+- **Luau** – Game scripting, full projects
+- **Rust** – Actively learning
+- Git, VS Code
+
+---
+
+## 📌 Projects
+> *Check my repos for Luau scripts and Rust practice projects.Most of my Luau projects are closed source though.*
+
+---
+
+## 📫 Contact
+- **Discord:**
+[![Discord Presence](https://lanyard.cnrad.dev/api/1038770111542210590?theme=dark)](https://discord.com/users/1038770111542210590)
+- **GitHub:** [Everyx333](https://github.com/Everyx333)
+
+---
+
+*Building fast, reliable software — one commit at a time.*
